@@ -1,0 +1,11 @@
+{
+  "name": "Patrol Boat",
+  "class": "patrol",
+  "era": "all",
+  "hp": 100,
+  "mass": 15000,
+  "max_speed_mps": 20,
+  "turn_rate_dps": 45,
+  "weapons": ["machine_gun_m2"],
+  "signature": { "radar_m": 1200, "visual_m": 800 }
+}

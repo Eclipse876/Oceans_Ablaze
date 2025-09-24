@@ -1,0 +1,17 @@
+[project]
+name = "modern-naval-rts"
+requires-python = ">=3.10"
+dependencies = ["arcade", "pydantic", "numpy", "ruff"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]  # pycodestyle, pyflakes, import rules
+fixable = ["ALL"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+docstring-code-format = true

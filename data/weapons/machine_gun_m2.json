@@ -1,0 +1,10 @@
+{
+  "name": "M2 Machine Gun (12.7mm)",
+  "type": "ballistic",
+  "rof_rps": 8,
+  "muzzle_velocity_mps": 890,
+  "spread_deg": 1.5,
+  "damage_per_hit": 2,
+  "effective_range_m": 1200,
+  "target_types": ["small_surface"]
+}

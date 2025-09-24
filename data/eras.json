@@ -1,0 +1,4 @@
+{
+  "1980s": { "start_year": 1980, "end_year": 1991, "tags": ["legacy", "analog", "lower-ECM"] },
+  "2025":  { "start_year": 2020, "end_year": 2025, "tags": ["modern", "networked", "high-ECM"] }
+}
